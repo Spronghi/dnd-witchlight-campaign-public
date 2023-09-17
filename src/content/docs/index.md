@@ -12,7 +12,4 @@ hero:
       link: /sessions/session-0
       icon: right-arrow
       variant: primary
-    - text: View on GitHub
-      link: https://github.com/Spronghi/dnd-witchlight-campaign-public
-      icon: external
 ---
