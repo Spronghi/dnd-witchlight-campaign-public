@@ -12,6 +12,6 @@ The lake is around 2 weeks traveling from Blore. So it is necessary that a carav
 
 ## Known infos
 
-Blore is a small village that sustains itself mostly from agriculture and breeding. Villagers are mostly humans and is a place where travelers are well seen, especially if they spend money into taverns or buy foods from villagers.
+Blore is a small village that sustains itself mostly from agriculture and keeping. Villagers are mostly humans and is a place where travelers are well seen, especially if they spend money into taverns or buy foods from villagers.
 
 `Ask me more if needed. More info will be added to this page as needed.`
